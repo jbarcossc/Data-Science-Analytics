@@ -12,5 +12,5 @@
 
 ---
   
-# <a name="esp" style="text-decoration:none;">Español<a/>
+# <a name="esp" style="text-decoration:none; color:#222222;">Español<a/>
 ## Proyecto 1: Properati
