@@ -8,9 +8,9 @@
   
 # English
 
-## Project 1: 
+## Project 1: Properati
 
 ---
   
 # <a name="esp" style="text-decoration:none;">Español<a/>
-## Proyecto 1:
+## Proyecto 1: Properati
