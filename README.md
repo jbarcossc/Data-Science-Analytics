@@ -7,9 +7,12 @@
 ### Aclaración
 * Esta página será presentada tanto en inglés como en español, por motivos personales. Para facilitar la lectura del documento, la información en inglés será presentada primero. Si prefiere ver el documento en español, por favor haga clic <a href="#esp">acá<a/>.
 
+---
+  
 ## English
 
 ## Project 1: 
 
-
+---
+  
 ## <a name="esp">Español<a/>
