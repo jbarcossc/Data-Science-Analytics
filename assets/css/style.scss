@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+$title-color: #9bc6d9;
+
 h1 {
-  color: #9bc6d9
+  color: $title-color;
 }
