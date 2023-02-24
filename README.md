@@ -1,3 +1,4 @@
+#gh-dark-mode-only
 # Data Science & Analytics Portfolio
 *By Juan Cruz Barcos*
 ---
