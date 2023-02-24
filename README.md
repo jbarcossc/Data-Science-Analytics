@@ -1,5 +1,5 @@
 # Data Science & Analytics Portfolio
-By Juan Cruz Barcos
+*By Juan Cruz Barcos*
 ---
 ### Clarification
 * This page will be presented both in English and Spanish, for personal purposes. In order to ease the readibility of the document, the information in English will be presented first. If you prefer to view the document in Spanish, please clic <a href="#esp">here<a/>.
