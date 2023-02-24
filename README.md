@@ -1,4 +1,3 @@
-# Data Science & Analytics Portfolio
 *By Juan Cruz Barcos*
 ---
 ### Clarification
