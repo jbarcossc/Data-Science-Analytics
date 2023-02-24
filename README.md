@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 # Data Science & Analytics Portfolio
 *By Juan Cruz Barcos*
 ---
